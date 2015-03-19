@@ -8,7 +8,7 @@ If you don’t already have one (or don’t want to use an existing personal acc
 e.g. Jeff Heinrichs
 icf-jheinrichs
 
-### Install git on your computer
+### Install git on your computer ###
 
 #### On Windows
 
